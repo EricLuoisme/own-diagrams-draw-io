@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-12-03T03:18:30.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" etag="NW92WvuGWHuaCeQ_WTh4" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-12-03T03:18:51.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" etag="eQyYXDPtuDfct7_PmfUo" version="24.4.9" type="github">
   <diagram name="第 1 页" id="h-kJyA-lv_k0Xgh3hI3_">
     <mxGraphModel dx="2049" dy="-115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,6 +37,15 @@
         <mxCell id="MVd7tDYTYP6lwRs-U0C5-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Access&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="MVd7tDYTYP6lwRs-U0C5-5">
           <mxGeometry width="170" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="MVd7tDYTYP6lwRs-U0C5-36" value="&lt;b&gt;App&lt;/b&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;IOS / Android&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontSize=18;" vertex="1" parent="MVd7tDYTYP6lwRs-U0C5-5">
+          <mxGeometry x="330" y="30" width="183" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MVd7tDYTYP6lwRs-U0C5-37" value="&lt;b&gt;External Interface&lt;/b&gt;&lt;div&gt;&lt;b&gt;HTTPS&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontSize=18;" vertex="1" parent="MVd7tDYTYP6lwRs-U0C5-5">
+          <mxGeometry x="670" y="30" width="183" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MVd7tDYTYP6lwRs-U0C5-38" value="&lt;b&gt;Web&lt;/b&gt;&lt;div&gt;&lt;b&gt;HTML, JavaScript&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontSize=18;" vertex="1" parent="MVd7tDYTYP6lwRs-U0C5-5">
+          <mxGeometry x="1029" y="30" width="183" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="MVd7tDYTYP6lwRs-U0C5-11" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="120" y="1460" width="1390" height="150" as="geometry" />
         </mxCell>
@@ -45,15 +54,6 @@
         </mxCell>
         <mxCell id="MVd7tDYTYP6lwRs-U0C5-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Gateway&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="MVd7tDYTYP6lwRs-U0C5-11">
           <mxGeometry width="170" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="MVd7tDYTYP6lwRs-U0C5-36" value="&lt;b&gt;App&lt;/b&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;IOS / Android&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontSize=18;" vertex="1" parent="MVd7tDYTYP6lwRs-U0C5-11">
-          <mxGeometry x="340" y="30" width="183" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="MVd7tDYTYP6lwRs-U0C5-37" value="&lt;b&gt;External Interface&lt;/b&gt;&lt;div&gt;&lt;b&gt;HTTPS&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontSize=18;" vertex="1" parent="MVd7tDYTYP6lwRs-U0C5-11">
-          <mxGeometry x="690" y="30" width="183" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="MVd7tDYTYP6lwRs-U0C5-38" value="&lt;b&gt;Web&lt;/b&gt;&lt;div&gt;&lt;b&gt;HTML, JavaScript&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontSize=18;" vertex="1" parent="MVd7tDYTYP6lwRs-U0C5-11">
-          <mxGeometry x="1070" y="30" width="183" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MVd7tDYTYP6lwRs-U0C5-24" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="120" y="1680" width="1390" height="1000" as="geometry" />
