@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-12-03T06:16:27.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" etag="bKr-vbWTEGa1p9iQrqaH" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-12-03T06:16:33.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" etag="Wt8v9Qt8-lCXcpcHTWCA" version="24.4.9" type="github">
   <diagram name="第 1 页" id="h-kJyA-lv_k0Xgh3hI3_">
     <mxGraphModel dx="2049" dy="-115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -287,16 +287,16 @@
           <mxGeometry width="350" height="250" as="geometry" />
         </mxCell>
         <mxCell id="MVd7tDYTYP6lwRs-U0C5-57" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Clari5&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="MVd7tDYTYP6lwRs-U0C5-112">
-          <mxGeometry x="40" y="150.00027972027965" width="120" height="67.13286713286713" as="geometry" />
+          <mxGeometry x="40" y="157.00027972027965" width="120" height="67.13286713286713" as="geometry" />
         </mxCell>
         <mxCell id="MVd7tDYTYP6lwRs-U0C5-40" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;AMLock&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="MVd7tDYTYP6lwRs-U0C5-112">
-          <mxGeometry x="190" y="149.99979020979026" width="120" height="67.13286713286713" as="geometry" />
+          <mxGeometry x="190" y="156.99979020979026" width="120" height="67.13286713286713" as="geometry" />
         </mxCell>
         <mxCell id="MVd7tDYTYP6lwRs-U0C5-80" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Authentication &amp;amp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Risk Control&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="MVd7tDYTYP6lwRs-U0C5-112">
           <mxGeometry x="59.868421052631675" width="230.26315789473682" height="47.82608695652174" as="geometry" />
         </mxCell>
         <mxCell id="MVd7tDYTYP6lwRs-U0C5-45" value="&lt;h1&gt;&lt;span class=&quot;AfwdI&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Kuwait Mobile ID&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="MVd7tDYTYP6lwRs-U0C5-112">
-          <mxGeometry x="40" y="60" width="270" height="60" as="geometry" />
+          <mxGeometry x="40" y="67" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MVd7tDYTYP6lwRs-U0C5-113" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1570" y="1910" width="350" height="350" as="geometry" />
