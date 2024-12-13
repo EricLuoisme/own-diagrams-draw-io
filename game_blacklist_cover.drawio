@@ -231,7 +231,7 @@
           <mxGeometry x="100" y="830" width="650" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aH2Rv0B-jiOkKJzNCPrf-65" value="Banned" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="688" y="745" width="140" height="30" as="geometry" />
+          <mxGeometry x="678" y="735" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
