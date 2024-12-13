@@ -196,7 +196,7 @@
             <mxRectangle width="27" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5ARGfZlktuw_5QcicR3a-67" value="&lt;strike&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Abdullah&lt;/font&gt;&lt;/strike&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="5ARGfZlktuw_5QcicR3a-65">
+        <mxCell id="5ARGfZlktuw_5QcicR3a-67" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;strike&gt;&lt;font&gt;Abdullah&lt;/font&gt;&lt;/strike&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="5ARGfZlktuw_5QcicR3a-65">
           <mxGeometry x="27" width="93" height="30" as="geometry">
             <mxRectangle width="93" height="30" as="alternateBounds" />
           </mxGeometry>
