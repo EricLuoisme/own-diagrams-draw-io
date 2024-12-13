@@ -219,10 +219,16 @@
           <mxGeometry x="678" y="615" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aH2Rv0B-jiOkKJzNCPrf-60" value="Banned -&amp;gt; Whitelist -&amp;gt; Banned" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="428.5" y="610" width="215" height="40" as="geometry" />
+          <mxGeometry x="440" y="610" width="215" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aH2Rv0B-jiOkKJzNCPrf-61" value="Banned" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="678" y="500" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aH2Rv0B-jiOkKJzNCPrf-62" value="W -&amp;gt; B -&amp;gt; W -&amp;gt; B -&amp;gt; W -&amp;gt; B" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="428.5" y="730" width="215" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aH2Rv0B-jiOkKJzNCPrf-63" value="Banned" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="678" y="735" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
