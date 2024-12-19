@@ -4,20 +4,54 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xTZsgKl8fFD3ckYoaLQe-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="30" width="180" height="160" as="geometry" />
+        </mxCell>
         <mxCell id="xTZsgKl8fFD3ckYoaLQe-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_generic;" vertex="1" parent="1">
-          <mxGeometry x="30" y="270" width="50" height="80" as="geometry" />
+          <mxGeometry x="30" y="210" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xTZsgKl8fFD3ckYoaLQe-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="120" width="460" height="300" as="geometry" />
+          <mxGeometry x="140" y="130" width="620" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="xTZsgKl8fFD3ckYoaLQe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="xTZsgKl8fFD3ckYoaLQe-7" target="xTZsgKl8fFD3ckYoaLQe-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xTZsgKl8fFD3ckYoaLQe-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Wallet&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xTZsgKl8fFD3ckYoaLQe-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Account&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xTZsgKl8fFD3ckYoaLQe-9" value="database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="470" y="320" width="70" height="70" as="geometry" />
+          <mxGeometry x="415" y="360" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xTZsgKl8fFD3ckYoaLQe-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-servers-web-hosting/50/sftp-128.png" vertex="1" parent="1">
+          <mxGeometry x="890" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xTZsgKl8fFD3ckYoaLQe-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Boubyan Bank&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xTZsgKl8fFD3ckYoaLQe-13" value="VA&lt;div&gt;File&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="920" y="270" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTZsgKl8fFD3ckYoaLQe-15" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="225" as="sourcePoint" />
+            <mxPoint x="200" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xTZsgKl8fFD3ckYoaLQe-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Registration&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xTZsgKl8fFD3ckYoaLQe-15">
+          <mxGeometry x="-0.4577" y="-2" relative="1" as="geometry">
+            <mxPoint x="32" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xTZsgKl8fFD3ckYoaLQe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.855;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="xTZsgKl8fFD3ckYoaLQe-8" target="xTZsgKl8fFD3ckYoaLQe-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xTZsgKl8fFD3ckYoaLQe-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Store create account&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;request into db&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xTZsgKl8fFD3ckYoaLQe-18">
+          <mxGeometry x="-0.0347" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
