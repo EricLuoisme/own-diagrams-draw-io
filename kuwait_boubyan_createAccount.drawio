@@ -279,6 +279,9 @@
         <mxCell id="xTZsgKl8fFD3ckYoaLQe-103" value="Tiqmo Create Account&lt;div&gt;in KWT (H2H)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Registration request could only response - Pending&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Bundle create account request into file and upload&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- When result file ready, download &amp;amp; decode - update&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;account info according to it&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Notifiy App user by push noti, SMS, or they must login into APP&lt;/span&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
           <mxGeometry x="633" y="16" width="409" height="154" as="geometry" />
         </mxCell>
+        <mxCell id="xTZsgKl8fFD3ckYoaLQe-105" value="&lt;div&gt;- Create Account Info&lt;/div&gt;&lt;div&gt;- Create IBAN&lt;/div&gt;- Create Basic Account&lt;div&gt;- Create Overflow Account&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" vertex="1" parent="1">
+          <mxGeometry x="548" y="1950" width="183.5" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
