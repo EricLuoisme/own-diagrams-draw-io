@@ -193,6 +193,11 @@
             <mxPoint x="780" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="E1fqICJiR9363uhE0lPo-10" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;主动触发型任务&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;GameBanUserRedisCacheDeleteTask&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E1fqICJiR9363uhE0lPo-3">
+          <mxGeometry x="0.0063" y="-3" relative="1" as="geometry">
+            <mxPoint x="10" y="98" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="E1fqICJiR9363uhE0lPo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.179;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" target="5ARGfZlktuw_5QcicR3a-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="565" y="500" as="sourcePoint" />
